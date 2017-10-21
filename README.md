@@ -1,6 +1,6 @@
 ## Presentation on Virtual Reality
 
-Slideshow for my talk on VR at Google I/O extended Buea 2017.
+Slideshow for talk on the role of women in navigating the new economy.
 
 [View the presentation]( https://kraulain.github.io/slides_show/index.html)
 
